@@ -1,0 +1,3 @@
+# DEV
+Projeto feito pela NLW da RocketSeat na trilha explorer.
+Ainda em desenvolvimento...
